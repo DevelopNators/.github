@@ -1,13 +1,17 @@
  <!-- 🙋‍♂️ -->
 <!-- <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a> -->
 
-<h1 align="center">Hello there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px" width="30px">, We are DeveloperNators <img src='https://i.giphy.com/usdia/LOnt6uqjD9OexmQJRB/giphy.webp' align='center' width="45px" height="45px"></h1>
+<h1 align="center">Hello there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px" width="30px">, We are DeveloperNators <img src="https://camo.githubusercontent.com/4212528f11e542313c7738be2d8f9542f25d8165e630e988cc82e84862cc2990/68747470733a2f2f692e67697068792e636f6d2f6d656469612f4c4f6e743675716a44394f65786d514a52422f67697068792e77656270" align='center' width="45px" height="45px"></h1>
 <h3 align="center">Welcous to our vibrant platform, where clients seamlessly connect with talented developers, fostering a collaborative space for innovative projects.</h3>
 
 ## <img src="https://www.emoji.com/wp-content/uploads/filebase/3d%20icons/emoji-3d%20icons-glossy-3d-icons-man-waving-72dpi-forPersonalUseOnly.gif" height="32px" width="32px"> About us
 
-  
-- 💻 Connect with us on **[LinkedIn](https://www.linkedin.com/in/mohd-riyan-0330b4225//)**
+  <p align="center">
+   Welcome to our vibrant platform, where clients seamlessly connect with talented developers, fostering a collaborative space for innovative projects. Explore the perfect synergy of skills and opportunities as clients discover ideal developers, while individuals showcase their talents to secure exciting projects. Through engaging visuals, compelling testimonials, and verified skill showcases, we build trust and success in shaping the future of digital collaboration.
+
+Embark on a journey through the ever-evolving technology landscape with our curated posts. Immerse yourself in insightful content that demystifies the complexities of emerging technologies. Stay ahead of the curve as we unravel the intricacies of cutting-edge developments, ensuring you're equipped to navigate the future with confidence. Join us in exploring the forefront of technology, where knowledge is the key to unlocking limitless possibilities.
+  </p>
+- 💻 Connect with us on **[LinkedIn](https://www.linkedin.com/company/developnators/)
 <br/>
 <br/>
 
@@ -51,7 +55,7 @@
   <br/>
   <p align="center">
   <a href="https://github.com/DevelopNators/github-readus-stats"><img alt="DevelopNators's Top Languages" src="https://github-readus-stats.vercel.app/api/top-langs/?usernaus=DevelopNators&langs_count=8&count_private=true&layout=compact&theus=react&hide_border=true&bg_color=0D1117" /></a>
-  <a  href="https://github.com/DevelopNators/github-readus-stats"><img alt="Subham Raoniar's Github Stats" src="https://github-readus-stats.vercel.app/api?usernaus=DevelopNators&show_icons=true&count_private=true&theus=react&hide_border=true&bg_color=0D1117" /></a>
+  <a  href="https://github.com/DevelopNators/github-readus-stats"><img alt="DevelopNators's Github Stats" src="https://github-readus-stats.vercel.app/api?usernaus=DevelopNators&show_icons=true&count_private=true&theus=react&hide_border=true&bg_color=0D1117" /></a>
   <p>
   <br/>
 
