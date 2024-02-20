@@ -1,6 +1,5 @@
  <!-- 🙋‍♂️ -->
 <!-- <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a> -->
-
 <h1 align="center">Hello there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px" width="30px">, We are DeveloperNators <img src="https://camo.githubusercontent.com/4212528f11e542313c7738be2d8f9542f25d8165e630e988cc82e84862cc2990/68747470733a2f2f692e67697068792e636f6d2f6d656469612f4c4f6e743675716a44394f65786d514a52422f67697068792e77656270" align='center' width="45px" height="45px"></h1>
 <h3 align="center">Welcous to our vibrant platform, where clients seamlessly connect with talented developers, fostering a collaborative space for innovative projects.</h3>
 
@@ -11,7 +10,10 @@
 
 Embark on a journey through the ever-evolving technology landscape with our curated posts. Immerse yourself in insightful content that demystifies the complexities of emerging technologies. Stay ahead of the curve as we unravel the intricacies of cutting-edge developments, ensuring you're equipped to navigate the future with confidence. Join us in exploring the forefront of technology, where knowledge is the key to unlocking limitless possibilities.
   </p>
-- 💻 Connect with us on **[LinkedIn](https://www.linkedin.com/company/developnators/)
+- 💻 Connect with us on **[LinkedIn](https://www.linkedin.com/company/developnators)**
+<br/>
+- ✉️ Email us on <a href="mailto:developnators@gmail.com">developnators@gmail.com</a>
+
 <br/>
 <br/>
 
@@ -50,11 +52,11 @@ Embark on a journey through the ever-evolving technology landscape with our cura
     </a>
 </p>
 
-## 📊 our Github Stats
+## 📊 Our Github Stats
 
   <br/>
   <p align="center">
-  <a href="https://github.com/DevelopNators/github-readus-stats"><img alt="DevelopNators's Top Languages" src="https://github-readus-stats.vercel.app/api/top-langs/?usernaus=DevelopNators&langs_count=8&count_private=true&layout=compact&theus=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/DevelopNators/github-readus-stats"><img alt="DevelopNators's Top Languages" src="z" /></a>
   <a  href="https://github.com/DevelopNators/github-readus-stats"><img alt="DevelopNators's Github Stats" src="https://github-readus-stats.vercel.app/api?usernaus=DevelopNators&show_icons=true&count_private=true&theus=react&hide_border=true&bg_color=0D1117" /></a>
   <p>
   <br/>
@@ -62,7 +64,7 @@ Embark on a journey through the ever-evolving technology landscape with our cura
   <b>Note:</b> Top languages is only a ustric of the languages our public code consists of and doesn't reflect experience or skill level.
   <br/>
 <p align="center">
-  <img  src="https://i.giphy.com/usdia/QssGEmpkyEOhBCb7e1/giphy.webp" style="float:center" width="60px">
+  <img  src="https://camo.githubusercontent.com/dfeaa220cfbdff08300d1f4e8da8262c6891c98f2490d7001d1390ed6e3dcf60/68747470733a2f2f692e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e77656270" style="float:center" width="60px">
 </p>
 
 <br/>
@@ -75,7 +77,7 @@ Embark on a journey through the ever-evolving technology landscape with our cura
 ## Connect with us:
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/mohd-riyan-0330b4225//"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.linkedin.com/company/developnators"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/mohdriyan08"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/mohdriyan01/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <!-- <a href = "https://www.youtube.com/channel/UC-NXT1lYAOPa3lrgWXqvuHA"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a> -->
