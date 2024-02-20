@@ -46,7 +46,7 @@ Embark on a journey through the ever-evolving technology landscape with our cura
 <p align="center">
 <!-- <img src="https://i.giphy.com/usdia/VdoIFLsMIlwzfKD520/giphy.webp" width="60px"> -->
     <a href="https://git.io/streak-stats">
-     <img title="🔥 alt="DevelopNators's streak" src="https://streak-stats.demolab.com?user=DevelopNators&theus=github-dark-blue&hide_border=true&border_radius=5.9"/>
+     <img title="🔥 alt="DevelopNators's streak" src="[https://streak-stats.demolab.com?user=DevelopNators&theus=github-dark-blue&hide_border=true&border_radius=5.9](https://github-readme-stats.vercel.app/api?username=DevelopNators)"/>
     </a>
 </p>
 
